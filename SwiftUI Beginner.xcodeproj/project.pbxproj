@@ -10,7 +10,7 @@
 		52B29578287698370003E75E /* SwiftUI_BeginnerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B29577287698370003E75E /* SwiftUI_BeginnerApp.swift */; };
 		52B2957A287698370003E75E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B29579287698370003E75E /* ContentView.swift */; };
 		52B2957C2876983B0003E75E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52B2957B2876983B0003E75E /* Assets.xcassets */; };
-		52B2957F2876983B0003E75E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52B2957E2876983B0003E75E /* Preview Assets.xcassets */; };
+		52B2958628769D980003E75E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52B2958528769D980003E75E /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -18,7 +18,7 @@
 		52B29577287698370003E75E /* SwiftUI_BeginnerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_BeginnerApp.swift; sourceTree = "<group>"; };
 		52B29579287698370003E75E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		52B2957B2876983B0003E75E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		52B2957E2876983B0003E75E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		52B2958528769D980003E75E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 		52B2957D2876983B0003E75E /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				52B2957E2876983B0003E75E /* Preview Assets.xcassets */,
+				52B2958528769D980003E75E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -125,7 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				52B2957F2876983B0003E75E /* Preview Assets.xcassets in Resources */,
+				52B2958628769D980003E75E /* Preview Assets.xcassets in Resources */,
 				52B2957C2876983B0003E75E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
